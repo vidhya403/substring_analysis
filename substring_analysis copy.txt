@@ -1,0 +1,35 @@
+============================================
+       SUBSTRING ANALYSIS REPORT
+============================================
+
+Main String       : banana
+String Length     : 6
+Unique Substrings : 14
+Last Search       : nana
+Last Deleted      : nana
+
+--------------------------------------------
+ALL UNIQUE SUBSTRINGS
+--------------------------------------------
+1. a
+2. an
+3. ana
+4. anan
+5. anana
+6. b
+7. ba
+8. ban
+9. bana
+10. banan
+11. banana
+12. n
+13. na
+14. nan
+
+--------------------------------------------
+LONGEST REPEATED SUBSTRING
+--------------------------------------------
+Substring  : ana
+Count      : 2
+
+============================================
